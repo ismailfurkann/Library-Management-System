@@ -4,7 +4,7 @@ public class Main {
 
 
         library.addBook("Simyacı", "Paulo Coelho", "12345", 3);
-        library.addBook("Nutuk", "Mustafa Kemal Atatürk", "67890", 2);
+        library.addBook("Çile", "Necip Fazıl Kısakürek", "67890", 2);
         library.addBook("Kürk Mantolu Madonna", "Sabahattin Ali", "67891", 2);
 
 
